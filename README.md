@@ -1,4 +1,4 @@
-# KvUmbrella
+elixir-kv
+=========
 
-**TODO: Add description**
-
+Learning Elixir by implementing a simple redis-like KV store
